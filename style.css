@@ -280,3 +280,16 @@ header.hero > * {
 .footer-links li a:hover {
   color: #ccc;
 }
+
+
+/* Başlıklar için normal Oswald */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+
+/* Paragraflar ve genel metin için italic Oswald */
+p, span, li, a, div {
+  font-family: 'Oswald', sans-serif;
+  font-style: italic;
+}
