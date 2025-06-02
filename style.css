@@ -288,6 +288,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Paragraflar ve genel metin için italic Oswald */
 p, span, li, a, div {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-style: italic;
 }
